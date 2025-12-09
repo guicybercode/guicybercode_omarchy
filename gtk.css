@@ -1,3 +1,7 @@
+* {
+    font-family: "JetBrainsMono Nerd Font", "Noto Sans", sans-serif;
+}
+
     @define-color background     #0F0F0F;
     @define-color foreground     #E0D4C2;
     @define-color black          #0F0F0F;

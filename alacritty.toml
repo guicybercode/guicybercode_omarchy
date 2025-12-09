@@ -36,3 +36,12 @@ blue = "#496529"
 magenta = "#7B726A"
 cyan = "#A9A9A9"
 white = "#eaeaea"
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+normal.style = "Regular"
+bold.family = "JetBrainsMono Nerd Font"
+bold.style = "Bold"
+italic.family = "JetBrainsMono Nerd Font"
+italic.style = "Italic"
+size = 12.0

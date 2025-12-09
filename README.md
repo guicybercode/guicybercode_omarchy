@@ -9,6 +9,7 @@ Dark discipline with crimson focus. guicybercode_omarchy leans on deep blacks, o
 
 ## Preview
 ![guicybercode_omarchy preview](preview.png)
+![guicybercode_omarchy preview 2](preview2.png)
 
 ## Wallpaper
 One bundled wallpaper is included in `backgrounds/` (set it as your desktop for the intended look).
@@ -30,12 +31,24 @@ Select the theme inside Vesktop after copying.
 - System bars/OSD: `waybar.css`, `walker.css`, `swayosd.css`, `mako.ini`
 - Window/session: `hyprland.conf`, `hyprlock.conf`
 - Editors: `neovim.lua`, `vscode.json`
+- Emacs: `doom-guicybercode_omarchy-theme.el`
 - Other: `btop.theme`, `chromium.theme`, `gtk.css`, `icons.theme`
 
 ## Notes
 - Palette: deep black backgrounds, bronze/stone neutrals, and bright red/orange accents for focus states and borders.
 - Workspace labeling uses Mandarin numerals; the active desktop uses a cross accent so you can spot it instantly.
 - Keep the single wallpaper applied to match the preview.
+
+### Doom Emacs
+Copy the theme file into your Doom config and select it:
+```bash
+mkdir -p ~/.doom.d/themes
+cp doom-guicybercode_omarchy-theme.el ~/.doom.d/themes/
+```
+Then set in `~/.doom.d/config.el`:
+```elisp
+(setq doom-theme 'doom-guicybercode_omarchy)
+```
 
 ### License
 MIT

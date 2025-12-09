@@ -4,5 +4,10 @@
  * ────────────────────────────────────────────────────────────
  */
 
+* {
+    font-family: "JetBrainsMono Nerd Font", "Noto Sans", sans-serif;
+    font-size: 12px;
+}
+
 @define-color background #0F0F0F;
 @define-color foreground #FFAA00;

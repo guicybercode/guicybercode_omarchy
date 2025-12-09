@@ -23,6 +23,7 @@ window .search {
   border-radius: 12px;
   padding: 8px 12px;
   margin: 4px 0;
+  font-family: "JetBrainsMono Nerd Font", "Noto Sans", sans-serif;
   font-size: 14px;
   font-weight: 500;
 }
