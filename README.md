@@ -15,7 +15,7 @@ One bundled wallpaper is included in `backgrounds/` (set it as your desktop for 
 
 ## Installation
 ```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-guicybercode_omarchy-theme.git
+omarchy-theme-install https://github.com/guicybercode/guicybercode_omarchy.git
 ```
 
 ### Vesktop theme

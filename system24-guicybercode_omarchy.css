@@ -160,17 +160,17 @@ body {
     /* messages when hovered */
 
     /* accent colors */
-    --accent-1: #D35F5F;
+    --accent-1: #E35A5A;
     /* links and other accent text */
-    --accent-2: #FF4500;
+    --accent-2: #FF5C26;
     /* small accent elements */
-    --accent-3: #3A403B;
+    --accent-3: #454D47;
     /* accent buttons */
     --accent-4: var(--grey-4);
     /* accent buttons when hovered */
     --accent-5: var(--grey-5);
     /* accent buttons when clicked */
-    --accent-new: #4A4E3D;
+    --accent-new: #56624B;
     /* stuff that's normally red like mute/deafen buttons */
     --mention: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 90%) 40%, transparent);
     /* background of messages that mention you */
@@ -198,41 +198,41 @@ body {
     /* general light border color */
     --border: var(--active);
     /* general normal border color */
-    --border-hover: #FF4500;
+    --border-hover: #FF5C26;
     /* border color of panels when hovered */
     --button-border: hsl(220, 0%, 100%, 0.1);
     /* neutral border color of buttons */
 
     /* base colors */
-    --red-1: oklch(75% 0.13 0);
-    --red-2: oklch(70% 0.13 0);
-    --red-3: oklch(65% 0.13 0);
-    --red-4: oklch(60% 0.13 0);
-    --red-5: oklch(55% 0.13 0);
+    --red-1: oklch(75% 0.16 0);
+    --red-2: oklch(70% 0.16 0);
+    --red-3: oklch(65% 0.16 0);
+    --red-4: oklch(60% 0.16 0);
+    --red-5: oklch(55% 0.16 0);
 
-    --green-1: oklch(75% 0.12 170);
-    --green-2: oklch(70% 0.12 170);
-    --green-3: oklch(65% 0.12 170);
-    --green-4: oklch(60% 0.12 170);
-    --green-5: oklch(55% 0.12 160);
+    --green-1: oklch(75% 0.14 170);
+    --green-2: oklch(70% 0.14 170);
+    --green-3: oklch(65% 0.14 170);
+    --green-4: oklch(60% 0.14 170);
+    --green-5: oklch(55% 0.14 160);
 
-    --blue-1: oklch(75% 0.11 215);
-    --blue-2: oklch(70% 0.11 215);
-    --blue-3: oklch(65% 0.11 215);
-    --blue-4: oklch(60% 0.11 215);
-    --blue-5: oklch(55% 0.11 215);
+    --blue-1: oklch(75% 0.13 215);
+    --blue-2: oklch(70% 0.13 215);
+    --blue-3: oklch(65% 0.13 215);
+    --blue-4: oklch(60% 0.13 215);
+    --blue-5: oklch(55% 0.13 215);
 
-    --yellow-1: oklch(80% 0.12 90);
-    --yellow-2: oklch(75% 0.12 90);
-    --yellow-3: oklch(70% 0.12 90);
-    --yellow-4: oklch(65% 0.12 90);
-    --yellow-5: oklch(60% 0.12 90);
+    --yellow-1: oklch(80% 0.14 90);
+    --yellow-2: oklch(75% 0.14 90);
+    --yellow-3: oklch(70% 0.14 90);
+    --yellow-4: oklch(65% 0.14 90);
+    --yellow-5: oklch(60% 0.14 90);
 
-    --purple-1: oklch(75% 0.12 310);
-    --purple-2: oklch(70% 0.12 310);
-    --purple-3: oklch(65% 0.12 310);
-    --purple-4: oklch(60% 0.12 310);
-    --purple-5: oklch(55% 0.12 310);
+    --purple-1: oklch(75% 0.15 310);
+    --purple-2: oklch(70% 0.15 310);
+    --purple-3: oklch(65% 0.15 310);
+    --purple-4: oklch(60% 0.15 310);
+    --purple-5: oklch(55% 0.15 310);
 
     --grey-1: rgba(231, 233, 234, .85);
     --grey-2: rgba(231, 233, 234, .80);

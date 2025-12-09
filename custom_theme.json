@@ -7,35 +7,35 @@
       "colors": {
         "bright": {
           "black": "#292828",
-          "blue": "#496529",
-          "cyan": "#A9A9A9",
-          "green": "#305432",
-          "magenta": "#7B726A",
-          "red": "#8B0000",
+          "blue": "#567532",
+          "cyan": "#B0B7BD",
+          "green": "#366140",
+          "magenta": "#8E7A70",
+          "red": "#B20000",
           "white": "#eaeaea",
-          "yellow": "#FF4500"
+          "yellow": "#FF6A2D"
         },
         "cursor": {
-          "cursor": "#FF4500",
+          "cursor": "#FF5C1F",
           "text": "#0F0F0F"
         },
         "normal": {
           "black": "#0F0F0F",
-          "blue": "#4A4E3D",
-          "cyan": "#7A7D80",
-          "green": "#3A403B",
-          "magenta": "#7B726A",
-          "red": "#8B0000",
+          "blue": "#55624B",
+          "cyan": "#889197",
+          "green": "#445047",
+          "magenta": "#8B7A6F",
+          "red": "#A60000",
           "white": "#bebebe",
-          "yellow": "#FF4500"
+          "yellow": "#FF5C1F"
         },
         "primary": {
           "background": "#0F0F0F",
-          "dim_foreground": "#3A403B",
+          "dim_foreground": "#465047",
           "foreground": "#E0D4C2"
         },
         "selection": {
-          "background": "#3A403B"
+          "background": "#465047"
         }
       },
       "font": {
