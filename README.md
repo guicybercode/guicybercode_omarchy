@@ -76,8 +76,6 @@ In `~/.doom.d/config.el`:
 ## Wallpaper
 - Use `backgrounds/wallpaper.png` to match the palette.
 
-## License
-MIT
+##
 
-## Scripture
 태초에 하나님이 천지를 창조하시니라 (太初에 하나님이 天地를 創造하시니라) — 창세기 1:1
