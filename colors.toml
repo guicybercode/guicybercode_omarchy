@@ -1,0 +1,35 @@
+# guicybercode_omarchy
+# Dark discipline with crimson focus.
+# Deep blacks, oxide reds, and muted metals.
+
+mode = "dark"
+
+accent = "#ff4500"
+selection = "#3a403b"
+muted = "#7b726a"
+
+background = "#0f0f0f"
+dark_background = "#0a0a0a"
+darker_background = "#05050a"
+lighter_background = "#1b1b1b"
+
+foreground = "#e0d4c2"
+dark_foreground = "#6e6a5a"
+light_foreground = "#bdb5aa"
+bright_foreground = "#f3e9da"
+
+red = "#8b0000"
+yellow = "#ffaa00"
+orange = "#ff4500"
+green = "#4a4e3d"
+cyan = "#7a7d80"
+blue = "#496529"
+magenta = "#7b726a"
+brown = "#a67c52"
+
+bright_red = "#bf0000"
+bright_yellow = "#f59e0b"
+bright_green = "#305432"
+bright_cyan = "#a9a9a9"
+bright_blue = "#4a4e3d"
+bright_magenta = "#8a8a8d"

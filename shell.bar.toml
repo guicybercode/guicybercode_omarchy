@@ -1,0 +1,10 @@
+# guicybercode_omarchy — amber bar text, as in the original theme.
+# A shell.<section>.toml file REPLACES the whole [bar] section, so every key
+# the generated shell.toml sets has to be repeated here.
+background       = "#0f0f0f"
+background-alpha = 1.0
+text             = "#ffaa00"
+active            = "#8b0000"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
